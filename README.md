@@ -1,8 +1,8 @@
 # IDSOLVER: A general purpose solver for nth-order integro-differential equations
 
-IDSOLVER is explained in full detail in the following manuscript:
+IDSOLVER is explained in full detail in the following paper:
 
-Gelmi C. and H. Jorquera. IDSOLVER: A general purpose solver for nth-order integro-differential equations.
+[Gelmi C. and H. Jorquera. IDSOLVER: A general purpose solver for nth-order integro-differential equations.](https://www.sciencedirect.com/science/article/abs/pii/S0010465513003093)
 
 ## CONTENT
 
