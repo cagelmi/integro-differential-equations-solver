@@ -14,6 +14,6 @@ IDSOLVER is explained in full detail in the following paper:
 
 ## Python version
 
-There is a Python version available through PyPi repository, translated and manteined by Josh Karpel. The Pythpn version can be found here:
+There is a Python version available through the PyPi repository, translated and manteined by Josh Karpel. The Python version can be found here:
 
 https://pypi.org/project/idesolver/
